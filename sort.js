@@ -1,3 +1,4 @@
+//add-sort-func
 var sortNumber = function (number) {
   number.sort(function (a, b) {
     if (a == b) {
