@@ -1,3 +1,4 @@
+//add-sort-func for pull requests
 var sortNumber = function (number) {
   number.sort(function (a, b) {
     if (a == b) {
